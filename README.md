@@ -15,7 +15,7 @@ Break point for the media query will be at 375 x 812 (iphone x) dimenssions.
 
 https://data.cityofnewyork.us/resource/25th-nujf.json?brth_yr=2016
 
-{
+.[{
 "brth_yr": "2016",
 "gndr": "MALE",
 "ethcty": "ASIAN AND PACIFIC ISLANDER",
@@ -38,7 +38,7 @@ https://data.cityofnewyork.us/resource/25th-nujf.json?brth_yr=2016
 "nm": "Cheskel",
 "cnt": "20",
 "rnk": "89"
-}
+}].
 
 ## Wireframes
 
