@@ -82,12 +82,15 @@ Break point for the media query will be at 375 x 812 (iphone x) dimenssions.
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding API | H | 3hrs| 7 hrs | 7 hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Wireframming | H | 3hrs| 1hr |  |
+| Adding API | H | 5hrs| 7 hrs | 7 hrs |
+| Working with API | H | 5hrs| 4hrs | |
+| Wireframming | H | 7hrs| 1hr |  |
+| CSS | H | 8hrs| 2hr |  |
 | Application Structure | H | 3hrs|  |  |
 | JS Logic | H | 6hr |  | |
-| Total | H | 18hrs | 8hrs |  |
+| JS Logic #2 | H | 6hr |  | |
+
+| Total | H | 40hrs | 13hrs |  |
 
 ## Code Snippet
 
