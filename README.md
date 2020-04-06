@@ -74,11 +74,11 @@ Break point for the media query will be at 375 x 812 (iphone x) dimenssions.
 
 ## Priority Matrix
 
-[Priority Matrix] (https://photos.app.goo.gl/JmNfYCX1xo4R2YVz5)
+[Priority Matrix](https://photos.app.goo.gl/JmNfYCX1xo4R2YVz5)
 
 ## Timeframes
 
-[TimeFrames] (https://photos.app.goo.gl/uDpsdDujjsF1DXiz8)
+[TimeFrames](https://photos.app.goo.gl/uDpsdDujjsF1DXiz8)
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
