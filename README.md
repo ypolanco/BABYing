@@ -13,9 +13,9 @@ Break point for the media query will be at 375 x 812 (iphone x) dimenssions.
 
 ## API and Data Sample
 
-https://data.cityofnewyork.us/resource/25th-nujf.json?brth_yr=2016
+[JSON Sample](https://data.cityofnewyork.us/resource/25th-nujf.json?brth_yr=2016)
 
-.[{
+{
 "brth_yr": "2016",
 "gndr": "MALE",
 "ethcty": "ASIAN AND PACIFIC ISLANDER",
@@ -38,7 +38,7 @@ https://data.cityofnewyork.us/resource/25th-nujf.json?brth_yr=2016
 "nm": "Cheskel",
 "cnt": "20",
 "rnk": "89"
-}].
+}
 
 ## Wireframes
 
@@ -74,13 +74,11 @@ https://data.cityofnewyork.us/resource/25th-nujf.json?brth_yr=2016
 
 ## Priority Matrix
 
-https://photos.app.goo.gl/JmNfYCX1xo4R2YVz5
+[Priority Matrix] (https://photos.app.goo.gl/JmNfYCX1xo4R2YVz5)
 
 ## Timeframes
 
-https://photos.app.goo.gl/uDpsdDujjsF1DXiz8
-
-Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe.
+[TimeFrames] (https://photos.app.goo.gl/uDpsdDujjsF1DXiz8)
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
